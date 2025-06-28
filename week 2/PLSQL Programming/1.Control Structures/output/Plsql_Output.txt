@@ -1,0 +1,41 @@
+
+
+Table CUSTOMERS created.
+
+Table ACCOUNTS created.
+
+Table TRANSACTIONS created.
+
+Table LOANS created.
+
+Table EMPLOYEES created.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+1 row inserted.
+
+Applied 1% interest discount for customers above 60.
+
+PL/SQL procedure successfully completed.
+
+Table CUSTOMERS altered.
+
+VIP status updated for customers with balance over $10,000.
+
+PL/SQL procedure successfully completed.
+
+PL/SQL procedure successfully completed.
